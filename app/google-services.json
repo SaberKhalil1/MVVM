@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263069514024",
+    "project_id": "mvvm-1873e",
+    "storage_bucket": "mvvm-1873e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263069514024:android:bb0dd1fbc87fb371c0781d",
+        "android_client_info": {
+          "package_name": "com.sabir.mvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263069514024-40k5m0ausbv0a48itgopqf16bsqgssba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZMPl2CjiQoyymkko5R5ge9eMda3WXzJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263069514024-40k5m0ausbv0a48itgopqf16bsqgssba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
